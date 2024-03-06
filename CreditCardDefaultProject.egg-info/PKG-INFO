@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: CreditCardDefaultProject
+Version: 0.0.1
+Author: Avinash Aruna
+Author-email: masramavinash802@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: setuptools
